@@ -1,41 +1,7 @@
-Macro,Proceso,Actividad,Medida,Niveles,Ciudad,Nivel,Madurez,SISTEMA
-PLANEACIÓN,Caracterización Dda,Cuantificación Dda,Método,4,Medellín,1,25,SITVA Metro Medellín
-PLANEACIÓN,Caracterización Dda,Cualificación Dda,Método,4,Medellín,2,50,SITVA Metro Medellín
-PLANEACIÓN,Diseño del servicio,Diseño Operacional,Método,4,Medellín,3,75,SITVA Metro Medellín
-PLANEACIÓN,Financiera y tarifaria,Modelo financiero,Método,4,Medellín,3,75,SITVA Metro Medellín
-PLANEACIÓN,Infraestructura,Diseño Infra.,Enfoque,5,Medellín,4,80,SITVA Metro Medellín
-PLANEACIÓN,Vehículos,Diseño veh.,Enfoque,4,Medellín,4,100,SITVA Metro Medellín
-PLANEACIÓN,Tecnología,Tec en Veh.,Elementos,4,Medellín,1,25,SITVA Metro Medellín
-PLANEACIÓN,Tecnología,Tec. en Infra.,Elementos,3,Medellín,1,33,SITVA Metro Medellín
-PLANEACIÓN,Tecnología,Tec Planeación,Atributos,5,Medellín,2,40,SITVA Metro Medellín
-PLANEACIÓN,Caracterización Dda,Cualificación Dda,Método,4,Medellín,1,25,SITVA Metro Medellín
-PLANEACIÓN,Financiera y tarifaria,Modelo financiero,Método,4,Medellín,2,50,SITVA Metro Medellín
-PLANEACIÓN,Tecnología,Tec Planeación,Atributos,5,Medellín,2,40,SITVA Metro Medellín
-PLANEACIÓN,Caracterización Dda,Cuantificación Dda,Método,4,Medellín,2,50,SITVA Metro Medellín
-PLANEACIÓN,Caracterización Dda,Cuantificación Dda,Método,4,Medellín,1,25,TPM Transporte Público Medellín
-PLANEACIÓN,Caracterización Dda,Cualificación Dda,Método,4,Medellín,1,25,TPM Transporte Público Medellín
-PLANEACIÓN,Diseño del servicio,Diseño Operacional,Método,4,Medellín,1,25,TPM Transporte Público Medellín
-PLANEACIÓN,Financiera y tarifaria,Modelo financiero,Método,4,Medellín,2,50,TPM Transporte Público Medellín
-PLANEACIÓN,Infraestructura,Diseño Infra.,Enfoque,5,Medellín,1,20,TPM Transporte Público Medellín
-PLANEACIÓN,Vehículos,Diseño veh.,Enfoque,4,Medellín,2,50,TPM Transporte Público Medellín
-PLANEACIÓN,Tecnología,Tec en Veh.,Elementos,4,Medellín,1,25,TPM Transporte Público Medellín
-PLANEACIÓN,Tecnología,Tec. en Infra.,Elementos,3,Medellín,0,0,TPM Transporte Público Medellín
-PLANEACIÓN,Tecnología,Tec Planeación,Atributos,5,Medellín,1,20,TPM Transporte Público Medellín
-PLANEACIÓN,Caracterización Dda,Cuantificación Dda,Método,4,Río de Janeiro,3,75,BRT Río
-PLANEACIÓN,Caracterización Dda,Cualificación Dda,Método,4,Río de Janeiro,2,50,BRT Río
-PLANEACIÓN,Diseño del servicio,Diseño Operacional,Método,4,Río de Janeiro,3,75,BRT Río
-PLANEACIÓN,Financiera y tarifaria,Modelo financiero,Método,4,Río de Janeiro,3,75,BRT Río
-PLANEACIÓN,Infraestructura,Diseño Infra.,Enfoque,5,Río de Janeiro,4,80,BRT Río
-PLANEACIÓN,Vehículos,Diseño veh.,Enfoque,4,Río de Janeiro,4,100,BRT Río
-PLANEACIÓN,Tecnología,Tec en Veh.,Elementos,4,Río de Janeiro,3,75,BRT Río
-PLANEACIÓN,Tecnología,Tec. en Infra.,Elementos,3,Río de Janeiro,2,67,BRT Río
-PLANEACIÓN,Tecnología,Tec Planeación,Atributos,5,Río de Janeiro,3,60,BRT Río
-PLANEACIÓN,Caracterización Dda,Cuantificación Dda,Método,4,Santiago de Chile,2,50,RED Metropolitana tte Santiago
-PLANEACIÓN,Caracterización Dda,Cualificación Dda,Método,4,Santiago de Chile,3,75,RED Metropolitana tte Santiago
-PLANEACIÓN,Diseño del servicio,Diseño Operacional,Método,4,Santiago de Chile,4,100,RED Metropolitana tte Santiago
-PLANEACIÓN,Financiera y tarifaria,Modelo financiero,Método,4,Santiago de Chile,4,100,RED Metropolitana tte Santiago
-PLANEACIÓN,Infraestructura,Diseño Infra.,Enfoque,5,Santiago de Chile,3,60,RED Metropolitana tte Santiago
-PLANEACIÓN,Vehículos,Diseño veh.,Enfoque,4,Santiago de Chile,2,50,RED Metropolitana tte Santiago
-PLANEACIÓN,Tecnología,Tec en Veh.,Elementos,4,Santiago de Chile,2,50,RED Metropolitana tte Santiago
-PLANEACIÓN,Tecnología,Tec. en Infra.,Elementos,3,Santiago de Chile,1,33,RED Metropolitana tte Santiago
-PLANEACIÓN,Tecnología,Tec Planeación,Atributos,5,Santiago de Chile,3,60,RED Metropolitana tte Santiago
+ids,labels,parents
+M,Macros,
+Pl,Planeación,M
+P,Proceso,Pl
+Cd,Caracterización dada,P
+A,Actividad,Cd
+Cud,Cuatificación dada,A
