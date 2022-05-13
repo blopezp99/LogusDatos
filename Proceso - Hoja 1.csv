@@ -5,3 +5,8 @@ P,Proceso,Pl
 Cd,Caracterización dada,P
 A,Actividad,Cd
 Cud,Cuatificación dada,A
+Pl,Planeación,M
+P,Proceso,Pl
+Cd,Caracterización dada,P
+A,Actividad,Cd
+Cud,Cuatificación dada,A
