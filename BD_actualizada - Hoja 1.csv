@@ -1,0 +1,124 @@
+ids,labels,parents
+1,Macros,
+2,Procesos,1
+3,Actividades,
+4,Planeación: Todas las actividades que deben concebirse de manera preliminar para la adecuada implementación de un sistema de transporte logístico de calidad. Está enfocado en el objetivo final de la prestación del servicio para que este derive finalmente en la satisfacción al usuario y en la atención oportuna de sus necesidades de viaje y de entrega.,2
+5,Caracterización Dda,2
+6,Caracterización Dda,2
+7,Diseño del servicio,2
+8,Financiera y tarifaria,2
+9,Infraestructura,2
+10,Vehículos,2
+11,Tecnología,2
+12,Tecnología,2
+13,Tecnología,2
+14,Caracterización Dda,2
+15,Financiera y tarifaria,2
+16,Tecnología,2
+17,Caracterización Dda,2
+18,Caracterización Dda,2
+19,Caracterización Dda,2
+20,Diseño del servicio,2
+21,Financiera y tarifaria,2
+22,Infraestructura,2
+23,Vehículos,2
+24,Tecnología,2
+25,Tecnología,2
+26,Tecnología,2
+27,Caracterización Dda,2
+28,Caracterización Dda,2
+29,Diseño del servicio,2
+30,Financiera y tarifaria,2
+31,Infraestructura,2
+32,Vehículos,2
+33,Tecnología,2
+34,Tecnología,2
+35,Tecnología,2
+36,Caracterización Dda,2
+37,Caracterización Dda,2
+38,Diseño del servicio,2
+39,Financiera y tarifaria,2
+40,Infraestructura,2
+41,Vehículos,2
+42,Tecnología,2
+43,Tecnología,2
+44,Tecnología,2
+45,Actividades,5
+46,Actividades,6
+47,Actividades,7
+48,Actividades,8
+49,Actividades,9
+50,Actividades,10
+51,Actividades,11
+52,Actividades,12
+53,Actividades,13
+54,Actividades,14
+55,Actividades,15
+56,Actividades,16
+57,Actividades,17
+58,Actividades,18
+59,Actividades,19
+60,Actividades,20
+61,Actividades,21
+62,Actividades,22
+63,Actividades,23
+64,Actividades,24
+65,Actividades,25
+66,Actividades,26
+67,Actividades,27
+68,Actividades,28
+69,Actividades,29
+70,Actividades,30
+71,Actividades,31
+72,Actividades,32
+73,Actividades,33
+74,Actividades,34
+75,Actividades,35
+76,Actividades,36
+77,Actividades,37
+78,Actividades,38
+79,Actividades,39
+80,Actividades,40
+81,Actividades,41
+82,Actividades,42
+83,Actividades,43
+84,Cuantificación Dda,45
+85,Cualificación Dda,46
+86,Diseño Operacional,47
+87,Modelo financiero,48
+88,Diseño Infra.,49
+89,Diseño veh.,50
+90,Tec en Veh.,51
+91,Tec. en Infra.,52
+92,Tec Planeación,53
+93,Cualificación Dda,54
+94,Modelo financiero,55
+95,Tec Planeación,56
+96,Cuantificación Dda,57
+97,Cuantificación Dda,58
+98,Cualificación Dda,59
+99,Diseño Operacional,60
+100,Modelo financiero,61
+101,Diseño Infra.,62
+102,Diseño veh.,63
+103,Tec en Veh.,64
+104,Tec. en Infra.,65
+105,Tec Planeación,66
+106,Cuantificación Dda,67
+107,Cualificación Dda,68
+108,Diseño Operacional,69
+109,Modelo financiero,70
+110,Diseño Infra.,71
+111,Diseño veh.,72
+112,Tec en Veh.,73
+113,Tec. en Infra.,74
+114,Tec Planeación,75
+115,Cuantificación Dda,76
+116,Cualificación Dda,77
+117,Diseño Operacional,78
+118,Modelo financiero,79
+119,Diseño Infra.,80
+120,Diseño veh.,81
+121,Tec en Veh.,82
+122,Tec. en Infra.,83
+123,Tec Planeación,84
