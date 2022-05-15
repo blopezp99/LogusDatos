@@ -1,7 +1,7 @@
 ids,labels,parents
 M,Macros,
 Cl,Calidad,M
-Pl,Planeación: Hola me llamo Bryan que bien,M
+Pl,Planeación:Hola me llamo Bryan que bien,M
 P,Proceso,Pl
 Cd,Caracterización dada,P
 A,Actividad,Cd
