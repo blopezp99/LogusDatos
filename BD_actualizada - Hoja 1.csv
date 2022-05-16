@@ -1,7 +1,6 @@
 ids,labels,parents
 1,Macros,
-2,Planeación,1
-3,Todas las actividades que deben concebirse de manera preliminar para la adecuada implementación de un sistema de transporte logístico de calidad; Está enfocado en el objetivo final de la prestación del servicio para que este derive finalmente en la satisfacción al usuario y en la atención oportuna de sus necesidades de viaje y de entrega.,2
+2,Planeación: Todas las actividades que deben concebirse de manera preliminar para la adecuada implementación de un sistema de transporte logístico de calidad; Está enfocado en el objetivo final de la prestación del servicio para que este derive finalmente en la satisfacción al usuario y en la atención oportuna de sus necesidades de viaje y de entrega.,1
 5,Ciudad,2
 6,Medellín,5
 7,Río de Janeiro,5
