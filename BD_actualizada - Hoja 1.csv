@@ -1,0 +1,23 @@
+id,parentId,name,type,description
+1,,Macros,root,
+2,1,Planeación,Type,Todas las actividades que deben concebirse de manera preliminar para la adecuada implementación de un sistema de transporte logístico de calidad. Está enfocado en el objetivo final de la prestación del servicio para que este derive finalmente en la satisfacción al usuario y en la atención oportuna de sus necesidades de viaje y de entrega.
+5,2,Ciudad,Organism,
+6,5,Medellín,Organism,
+7,5,Río de Janeiro,Organism,
+8,5,Santiago de Chile,Organism,
+9,6,Procesos,Organism,
+10,9,Caracterización,Organism,Incluye las diferentes mediciones enfocadas a conocimiento de la demanda logística. Que sirvan como el principal insumo para la definición de los atributos operacionales del servicio.
+11,9,Diseño,Organism,"Definición de los parámetros operacionales de la oferta del servicio definida, para el cual es indispensable el análisis de elementos como requerimientos de los usuarios - particularidades de la modalidad - problemáticas existentes y contexto de la zona de operación."
+12,9,Financiera,Organism,"Desde el análisis financiero de todos los aspectos que componen la prestación del servicio logístico, buscando la sostenibilidad del sistema en el tiempo y el cumplimiento de los estándares de calidad definidos; hasta la definición de costos del sistema junto con esquemas de repartición de los ingresos y gastos."
+13,9,Infraestructura,Organism,Definición de todo lo relacionado con la infraestructura logística que utilizará el sistema para su operación: centros y nodos logísticos - vías - zonas de carga y descargue - parqueaderos y complementarios; lo cual incluye la definición de su esquema de financiación - administración y gestión.
+14,9,Vehículos,Organism,"La defnición y/o diseño de todos los elementos relacionados con los vehículos logísticos dependiendo de la escala o modo (vehículos no motorizados para última milla - vehículos para transporte de carga, etc): tipología vehicular - características y  tamaño de modo. Debe responder principalmente a las necesidades de los proveedores y clientes y las condiciones propias del marco de actuación."
+15,9,Tecnología,Organism,En cuanto a la gestión de la tecnología se refiere a las defniciones y/o diseño de todos los elementos relacionados con la tecnología: elementos - tipologías - características y funcionalidades. En cuanto a la tecnología para la planeaciónse refiere a la(s) tecnologías(s) que se utilicen para el macroproceso de planeación del sistema logístico.
+16,10,Actividades,Organism,
+17,16,Cuantificación de la demanda,Organism,
+18,16,Cualificación de la demanda,Organism,
+19,17,Niveles,Organism,
+20,18,Niveles,Organism,
+21,19,Nivel 1 de 4,Organism,
+22,20,Nivel 2 de 4,Organism,
+23,21,Maduréz: 25,Organism,
+24,22,Maduréz: 50,Organism,
