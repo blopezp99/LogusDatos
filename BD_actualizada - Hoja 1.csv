@@ -1,0 +1,23 @@
+ids,labels,parents
+1,Macros,
+4,Planeación: Todas las actividades que deben concebirse de manera preliminar para la adecuada implementación de un sistema de transporte logístico de calidad; Está enfocado en el objetivo final de la prestación del servicio para que este derive finalmente en la satisfacción al usuario y en la atención oportuna de sus necesidades de viaje y de entrega.,1
+5,Ciudad,4
+6,Medellín,5
+7,Río de Janeiro,5
+8,Santiago de Chile,5
+9,Procesos,6
+10,Caracterización,9
+11,Diseño,9
+12,Financiera,9
+13,Infraestructura,9
+14,Vehículos,9
+15,Tecnología,9
+16,Actividades,10
+17,Cuantificación de la demanda,16
+18,Cualificación de la demanda,16
+19,Niveles,17
+20,Niveles,18
+21,Nivel 1 de 4,19
+22,Nivel 2 de 4,20
+23,Maduréz: 25,21
+24,Maduréz: 50,22
